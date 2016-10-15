@@ -1,6 +1,8 @@
 # O6
 ### Modeling in Chemical Technology: Numerical Calculations with Python
 
+![alt text][cover.png]
+
 This is a collection of solved problems and exercises in chemical technology. The examples show how to use
 numerical calculations with Python to create simple models of not so simple chemical systems and processes.
 The collection is a part of ”Modeling in chemical technology (O6)” computational course.
