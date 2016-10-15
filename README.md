@@ -1,7 +1,6 @@
+## Modeling in Chemical Technology: Numerical Calculations with Python
 
 <img align="right" src="https://github.com/sbednarz/O6/raw/master/cover.png">
-
-## Modeling in Chemical Technology: Numerical Calculations with Python
 
 This is a collection of solved problems and exercises in chemical technology. The examples show how to use
 numerical calculations with Python to create simple models of not so simple chemical systems and processes.
