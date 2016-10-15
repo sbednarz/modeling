@@ -1,4 +1,4 @@
-## Modeling in Chemical Technology: Numerical Calculations with Python
+## Modeling in Chemical Technology: Numerical Calculations with Python (O6)
 
 <img align="right" src="https://github.com/sbednarz/O6/raw/master/cover.png">
 
