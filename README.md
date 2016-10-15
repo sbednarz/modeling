@@ -8,8 +8,8 @@ The collection is a part of ”Modeling in chemical technology (O6)” computati
 
  [Download the book](https://github.com/sbednarz/O6/raw/master/O6course.pdf)
 
-Except where otherwise noted, content on this book is licensed under the CC-BY-NC-ND 4.0 International license. 
-The source code of the examples is released under the GNU General Public License 3.0.
+Except where otherwise noted, content on this book is licensed under the [CC-BY-NC-ND 4.0 International license](https://creativecommons.org/licenses/by-nc-nd/4.0/). 
+The source code of the examples is released under the [GNU General Public License 3.0](https://www.gnu.org/licenses/gpl-3.0.txt).
 
 
 #### Acknowledgements
