@@ -1,0 +1,7 @@
+%run 20-1.py
+Equilibrium concentrations (cCH3COOH=0.5mol/L):
+[H+]=2.99e-03 mol/L
+[OH-]=3.85e-12 mol/L
+[CH3COOH]=4.97e-01 mol/L
+[CH3COO-]=2.99e-03 mol/L
+pH=2.52

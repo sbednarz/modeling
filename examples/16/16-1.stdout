@@ -1,0 +1,17 @@
+%run 16-1.py
+x=4.82e-02 y=9.44e-03
+y_ch3cl = 4.759e-01
+y_h2o = 4.806e-01
+y_ch3oh = 1.463e-02
+y_hcl = 2.408e-02
+y_ether = 4.722e-03
+Chlorine balance (1mol)
+1.0
+Carbon balance (1mol)
+1.0
+Oxygen balance (1mol)
+1.0
+Hydrogen balance (5mol)
+5.0
+Calculated Kp1 = 1.54e-03
+Calculated Kp2 = 1.06e+01

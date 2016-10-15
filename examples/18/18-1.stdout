@@ -1,0 +1,8 @@
+%run 18-1.py
+Model1 100%EB
+Equilibrium conversion: 0.30
+Model2 100%EB
+Equilibrium mole fractions:
+yEB=0.70
+yS=0.30
+yH2=0.30

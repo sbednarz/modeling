@@ -1,0 +1,20 @@
+%run 7-1.py
+Calculations done by odeint():
+tn=0.00000	yn=2.00000	dydt(tn, yn)=-0.00280
+tn=0.00220	yn=1.99999	dydt(tn, yn)=-0.00280
+tn=0.00220	yn=1.99999	dydt(tn, yn)=-0.00280
+tn=0.00439	yn=1.99999	dydt(tn, yn)=-0.00280
+tn=0.00439	yn=1.99999	dydt(tn, yn)=-0.00280
+tn=3.28786	yn=1.99082	dydt(tn, yn)=-0.00279
+tn=3.28786	yn=1.99082	dydt(tn, yn)=-0.00279
+tn=6.57133	yn=1.98168	dydt(tn, yn)=-0.00277
+tn=6.57133	yn=1.98168	dydt(tn, yn)=-0.00277
+tn=9.85481	yn=1.97260	dydt(tn, yn)=-0.00276
+tn=9.85481	yn=1.97260	dydt(tn, yn)=-0.00276
+tn=23.66719	yn=1.93482	dydt(tn, yn)=-0.00271
+tn=23.66719	yn=1.93482	dydt(tn, yn)=-0.00271
+tn=20.20912	yn=1.94421	dydt(tn, yn)=-0.00272
+tn=20.20912	yn=1.94421	dydt(tn, yn)=-0.00272
+Raw results:  [ 2.          1.95022976]
+Initial conditions t=0 and y=2.0
+The solution for t=18: y=1.95022976479

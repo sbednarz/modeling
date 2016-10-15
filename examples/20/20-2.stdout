@@ -1,0 +1,8 @@
+%run 20-2.py
+Equilibrium concentrations (cH2A=0.1mol/L):
+[H+]=3.69e-03 mol/L
+[OH-]=3.82e-12 mol/L
+[H2A]=9.63e-02 mol/L
+[HA-]=3.68e-03 mol/L
+[A2-]=3.54e-06 mol/L
+pH=2.43

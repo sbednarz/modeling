@@ -1,0 +1,6 @@
+%run 22-1.py
+Alanine 0.1 mol/L
+[cationic form]=1.735e-05 mol/L
+[zwitterion form]=9.996e-02 mol/L
+[anionic form]=1.821e-05 mol/L
+pH=6.06

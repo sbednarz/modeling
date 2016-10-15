@@ -1,0 +1,7 @@
+%run 26-1.py
+Initial rate (derivative):
+0.00280000091467
+Initial rate (def):
+0.0028
+Initial rate (approximation):
+0.00272150228725

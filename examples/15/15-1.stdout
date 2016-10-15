@@ -1,0 +1,8 @@
+%run 15-1.py
+Equilibrium concentrations:
+[CH3COOH] = 0.148 mol/L
+[EtOH] = 5.580 mol/L
+[PrOH] = 6.568 mol/L
+[CH3COOEt] = 1.420 mol/L
+[CH3COOPr] = 1.432 mol/L
+[H2O] = 2.852 mol/L

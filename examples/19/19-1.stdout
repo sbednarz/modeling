@@ -1,0 +1,11 @@
+%run 19-1.py
+Equilibrium concentrations (cHCL=0.1mol/L):
+[H+]=1.00e-01 mol/L
+[Cl-]=1.00e-01 mol/L
+[OH-]=1.00e-13 mol/L
+pH=1.00
+Equilibrium concentrations (cHCL=1e-7mol/L):
+[H+]=1.62e-07 mol/L
+[Cl-]=1.00e-07 mol/L
+[OH-]=6.18e-08 mol/L
+pH=6.79

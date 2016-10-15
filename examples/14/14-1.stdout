@@ -1,0 +1,6 @@
+%run 14-1.py
+Equilibrium concentrations:
+[EtOH]=13.13 mol/L
+[CH3COOH]=0.13 mol/L
+[CH3COOEt]=2.87 mol/L
+[H2O]=2.87 mol/L
