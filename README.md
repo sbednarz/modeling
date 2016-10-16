@@ -13,6 +13,6 @@ The source code of the examples is released under the [GNU General Public Licens
 
 
 #### Acknowledgements
-Development of this course was funded by European Commission - Erasmus+ Programme, Grant agreement
+Development of this course was funded by the Erasmus+ Programme of the European Union, grant agreement
 number: 2014-1-PL01-KA203-003415 "Improvement of innovative teaching methods in the fields of Technology
 and Chemical Engineering according to the best standards of the Bologna Process".
