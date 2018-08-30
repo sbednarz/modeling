@@ -1,4 +1,5 @@
 ## Modeling in Chemical Technology: Numerical Calculations with Python (O6)
+### by Szczepan Bednarz
 [<img align="right" src="https://github.com/sbednarz/O6/raw/master/cover.png" 
 alt="Download the Book">](https://github.com/sbednarz/O6/raw/master/O6course.pdf)
 
