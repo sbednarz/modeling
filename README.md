@@ -1,9 +1,9 @@
-# Modeling in Chemical Technology: Numerical Calculations with Python
+# Modeling in Chemical Technology and Biotechnology: Numerical Calculations with Python
 ## by Szczepan Bednarz
 [<img align="right" src="https://github.com/sbednarz/O6/raw/master/cover.png" 
 alt="Download the Book">](https://github.com/sbednarz/O6/raw/master/O6course.pdf)
 
-This is a collection of solved problems and exercises in chemical technology. The examples show how to use
+This is a collection of solved problems and exercises in chemical technology and biotechnology. The examples show how to use
 numerical calculations with Python to create simple models of not so simple chemical systems and processes.
 The collection is a part of ”Modeling in chemical technology (O6)” computational course.
 
